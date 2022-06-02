@@ -39,3 +39,4 @@
 + Click manage
 + Click browse local files
 + Copy all files from this repository into that directory
++ You can then delete this readme file from the directory
