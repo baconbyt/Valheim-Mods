@@ -25,9 +25,14 @@
 + [Surtling Boats]	(https://www.nexusmods.com/valheim/mods/321)
 + [Tutorial Video]	(https://youtu.be/kuIcAcGW0WM)
 
-## Installation
+## Download the repository
 
-+ Download the repository
++ Click Code
++ Click Download Zip
+
+## Installing the files
+
++ Right click the Zipped Folder in your downloads and extract all
 + Open Steam
 + Go to Library
 + Right click valheim
